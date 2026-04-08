@@ -9,4 +9,4 @@ def fibonacci(n):
 intput = int(input("Kaç tane fibonacci sayısını görmek istersiniz: "))
 print(fibonacci(intput)) 
 print(f"Fibonacci sayısı: {fibonacci(intput)}")
-print("deneme123")
+print("ASdf")
